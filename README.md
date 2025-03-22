@@ -6,16 +6,20 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
+</p>
+
 
 ## **🌟 About Me**
 🚀 **Aspiring ML Engineer & DSA Enthusiast**  
 💡 Passionate about AI, Open Source & Competitive Programming 
+
 📚 **Currently Learning:** DSA, Machine Learning  
 🌱 **Hobbies:** Coding, Sleeping, writing blogs
 
 ## **📊 Coding Stats**
 <p align="center">
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Shushmita_tiwari?theme=dark&font=Monospace)
+
 </p>
 
 ## **🎭 Fun Section**
