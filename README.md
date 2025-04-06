@@ -12,11 +12,10 @@
 
 
 ### 🧠 About Me:
-Hi, I'm Shushmita, a Machine Learning enthusiast and a problem-solving junkie.  
-🤖 Training models that occasionally work (and sometimes ghost me like bad code).  
-🧠 LeetCode warrior  
-☕ Caffeine-driven, bug-fueled, and occasionally rewarded with a green checkmark.  
-⚙️ Building, breaking, fixing, repeating and loving the loop..
+Hi, I'm Shushmita, a Machine Learning enthusiast.  
+🤖 I like to train models that occasionally work (and sometimes ghost me like bad code).  
+☕ Powered by caffeine, fueled by bugs, and occasionally blessed by green checkmarks.  
+⚙️ I build. I break. I debug. I repeat. And yeah, I secretly love the chaos of it all.
 
 <br>
 
