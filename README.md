@@ -1,14 +1,5 @@
+
 <h2 align="center">HELLO WORLD!</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=500&lines=Welcome+to+Shushmita's+GitHub!+🚀" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450" />
-</p>
-
-
 
 
 ### 🧠 About Me:
@@ -40,7 +31,7 @@ Hi, I'm Shushmita, a Machine Learning enthusiast.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+  
 </p>
 
 ---
@@ -75,3 +66,4 @@ Hi, I'm Shushmita, a Machine Learning enthusiast.
     <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" />
   </a>
 </p>
+
