@@ -4,9 +4,7 @@
 
 ### 🧠 About Me:
 Hi, I'm Shushmita, a Machine Learning enthusiast.  
-🤖 I like to train models that occasionally work (and sometimes ghost me like bad code).  
-☕ Powered by caffeine, fueled by bugs, and occasionally blessed by green checkmarks.  
-⚙️ I build. I break. I debug. I repeat. And yeah, I secretly love the chaos of it all.
+Exploring AI-driven solutions with a growing interest in Web3 technologies.                                                                                                                              Passionate about building intelligent, impactful systems.
 
 <br>
 
@@ -17,7 +15,7 @@ Hi, I'm Shushmita, a Machine Learning enthusiast.
   <img src="https://komarev.com/ghpvc/?username=Shushmitaaaa&style=flat-square&color=blue" alt="visitor count"/>
 </p>
 
----
+
 
 
 ### 🛠️ Languages & Tools
@@ -31,10 +29,19 @@ Hi, I'm Shushmita, a Machine Learning enthusiast.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/NLTK-Natural%20Language%20Toolkit-76B900?style=for-the-badge" alt="NLTK" />
+
 </p>
 
----
+
+
 
 ### 📊 LeetCode Stats
 
@@ -44,7 +51,7 @@ Hi, I'm Shushmita, a Machine Learning enthusiast.
   </a>
 </div>
 
----
+
 
 ### 🌍 Find Me Elsewhere
 
