@@ -44,7 +44,7 @@ Exploring AI-driven solutions with a growing interest in Web3 technologies.     
 
 
 ## 📊 LeetCode Stats
-
+a
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Shushmita_tiwari?theme=dark&font=baloo&ext=contest)](https://leetcode.com/Shushmita_tiwari)
 
 
@@ -65,7 +65,7 @@ Exploring AI-driven solutions with a growing interest in Web3 technologies.     
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 
-  <a href="[https://www.kaggle.com/shushmitaaa](https://share.google/RPXhgZDhHIRNRiRAV)" target="_blank">
+  <a href="https://www.kaggle.com/shushmitaaa" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </a>
 
