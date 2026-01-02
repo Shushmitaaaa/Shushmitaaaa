@@ -65,8 +65,8 @@ Exploring AI-driven solutions with a growing interest in Web3 technologies.     
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 
-  <a href="https://www.kaggle.com/shushmitaaa" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <a href="https://shushmita-rho.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
   <a href="https://www.quora.com/profile/Shushmita-3?ch=10&oid=1630305287&share=eadaab9b&srid=huccXg&target_type=user" target="_blank">
