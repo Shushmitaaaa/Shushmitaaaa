@@ -45,7 +45,8 @@ Exploring AI-driven solutions with a growing interest in Web3 technologies.     
 
 ## 📊 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Shushmita_tiwari?theme=dark&font=baloo&ext=contest)](https://leetcode.com/Shushmita_tiwari)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shushmita_tiwari?theme=dark&font=baloo)
+
 
 
 
